@@ -1,0 +1,21 @@
+{
+  "name": "IceMan's Ice",
+  "short_name": "IceMan's Ice",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "Fresh Ice Delivered to Your Doorstep. Pure, clean, and crystal-clear ice blocks and cubes for events, restaurants, and home. Made from filtered water and delivered fresh daily.",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
